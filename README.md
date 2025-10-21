@@ -1,4 +1,4 @@
-# 📷 MATLAB Aplikacija za Obradu Slika
+# 📷 MATLAB Aplikacija za obradu slika
 
 ## 📌 Opis projekta
 Ovaj projekat predstavlja **MATLAB aplikaciju za obradu digitalnih slika** koristeći **App Designer** i **Image Processing Toolbox**.  
@@ -17,8 +17,7 @@ Cilj je da korisnicima omogući intuitivno istraživanje različitih tehnika obr
 
 ### 🖼 Primeri slika
 - **persijska-macka.jpg** – test primer slike  
-- **c3-.jpg** – dodatni primer slike za demonstraciju  
-- **untitled.png** – još jedan primer korišćen u testiranju  
+- **c3-.jpg** – dodatni primer slike za demonstraciju    
 
 ---
 
